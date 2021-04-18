@@ -1,2 +1,3 @@
 # c-Data-Structure
-For this assignment, it was provided a templated dynamic array that needed to implemented common functions for dynamic arrays in c++. 
+For this assignments templated are provided, which are needed to be implemented with different functions.
+

@@ -1,6 +1,6 @@
 <h1>Instructions to Assignment and Screenshot of output</h1>
 
-<img src ="https://user-images.githubusercontent.com/81542559/158295763-76d7e797-5159-4af0-b1f3-c98a03948e7a.png" width="100", height="100">
+<img src ="https://user-images.githubusercontent.com/81542559/158295763-76d7e797-5159-4af0-b1f3-c98a03948e7a.png" width="100">
 ![A05_1](https://user-images.githubusercontent.com/81542559/158295763-76d7e797-5159-4af0-b1f3-c98a03948e7a.png | width=100)
 ![A05_2](https://user-images.githubusercontent.com/81542559/158295982-900a113d-575f-4519-b07a-44a091983bfe.png)
 ![A05_3](https://user-images.githubusercontent.com/81542559/158295996-ab510f52-d715-4c4b-8902-8d598d4a87cd.png)
